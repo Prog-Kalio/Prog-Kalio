@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prog-Kalio
-- 👀 I’m interested in Fullstack software development
+- 👀 I’m a Fullstack software developer
 - 🌱 I’m currently learning Cyber secure coding with certnexus usa
 - 💞️ I’m looking to collaborate on remote frontend and backend projects
 - 📫 How to reach me: ktamunotonye@gmail.com or call/whatsapp me on +2348186705771
